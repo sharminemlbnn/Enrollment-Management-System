@@ -16,10 +16,10 @@ The Student Enrollment System is a console-based Java application designed to si
 
 ## How to Run the Program
 
-Step 1: The program starts when you run
+***Step 1: The program starts when you run***
 The main() method begins. A Scanner is created to read user input, and objects for Student, CourseManager, and EnrollmentManager are initialized.
 
-Step 2: The main menu is displayed. The program shows the enrollment menu containing eight choices:
+***Step 2: The main menu is displayed. The program shows the enrollment menu containing eight choices:***
 
 1.Add Course
 
@@ -39,23 +39,23 @@ Step 2: The main menu is displayed. The program shows the enrollment menu contai
 
 It then waits for the user to input a number. This happens inside a while(true) loop so the menu continues to appear until the user chooses Exit.
 
-Step 3: If the user selects 1 (Add Course) The program asks for course details such as course code, course name, and units. A new Course object is created and stored in the course list managed by CourseManager.
+***Step 3: If the user selects 1 (Add Course) The program asks for course details such as course code, course name, and units. A new Course object is created and stored in the course list managed by CourseManager.***
 
-Step 4: If the user selects 2 (View Courses) The program prints all available courses stored in the course list. If no courses exist, it displays “No courses available.”
+***Step 4: If the user selects 2 (View Courses) The program prints all available courses stored in the course list. If no courses exist, it displays “No courses available.”***
 
-Step 5: If the user selects 3 (Edit Course) The program asks the user to choose a course to edit, then allows updating its details (e.g., course name or units). The changes are saved in the course list.
+***Step 5: If the user selects 3 (Edit Course) The program asks the user to choose a course to edit, then allows updating its details (e.g., course name or units). The changes are saved in the course list.***
 
-Step 6: If the user selects 4 (Delete Course) The program asks for the course to be removed and deletes it from the course list.
+***Step 6: If the user selects 4 (Delete Course) The program asks for the course to be removed and deletes it from the course list.***
 
-Step 7: If the user selects 5 (Enroll to Courses) The program displays the list of available courses and allows the student to select which ones to enroll in. The chosen courses are added to the student’s enrollment record.
+***Step 7: If the user selects 5 (Enroll to Courses) The program displays the list of available courses and allows the student to select which ones to enroll in. The chosen courses are added to the student’s enrollment record.***
 
-Step 8: If the user selects 6 (Payment and Transaction) The program calculates the total fees based on enrolled courses and prompts the student to process payment. Payment status is updated accordingly.
+***Step 8: If the user selects 6 (Payment and Transaction) The program calculates the total fees based on enrolled courses and prompts the student to process payment. Payment status is updated accordingly.***
 
-Step 9: If the user selects 7 (View Enrolled Courses and Payment Status) The program prints all courses the student is currently enrolled in along with the payment status (Paid/Unpaid).
+***Step 9: If the user selects 7 (View Enrolled Courses and Payment Status) The program prints all courses the student is currently enrolled in along with the payment status (Paid/Unpaid).***
 
-Step 10: If the user selects 8 (Exit) The program prints “Thank you for using the system!” and exits the loop, ending the program.
+***Step 10: If the user selects 8 (Exit) The program prints “Thank you for using the system!” and exits the loop, ending the program.***
 
-Step 11: Error handling while the program runs. If the user enters invalid input (for example, typing a letter instead of a number), the program prints “Invalid option. Try again.” and returns to the menu without crashing.
+***Step 11: Error handling while the program runs. If the user enters invalid input (for example, typing a letter instead of a number), the program prints “Invalid option. Try again.” and returns to the menu without crashing.***
 
 ## SAMPLE OUTPUT (MAIN MENU)
 ## 1. Option 1 
@@ -73,7 +73,25 @@ Step 11: Error handling while the program runs. If the user enters invalid input
 ## 5. Option 7
 <img width="480" height="677" alt="image" src="https://github.com/user-attachments/assets/fc5b6dca-ae59-411e-b308-3161d1329338" />
 
-## Acknowledgement 
+## ACKNOWLEDGEMENT
+
+We begin by expressing our profound gratitude to God for providing the guidance, strength, patience, and wisdom essential for the successful completion of this project.
+
+We sincerely thank our instructor, Mr. Juriel Comia, for his consistent support, insightful guidance, and clear instruction, which were instrumental in the development and completion of this work.
+
+Our appreciation is also extended to our classmates, friends, and loved ones, particularly whose encouragement, inspiration, and willingness to assist motivated us through challenges and enhanced the quality of our project.
+
+Finally, we are grateful to our families for their unwavering support, understanding, and patience, which provided the strength and determination required to see this project through to its conclusion.
+
+## AUTHORS 
+
+**Aila Mae V. De Leon**
+
+**Jake V. Malabanan**
+
+**Sharmine M. Malabanan**
+
+## Bachelor of Science in Information Technology - 2103 | College of Informatics and Computing Sciences | Batangas State University - The National Engineering University
 
 
 
