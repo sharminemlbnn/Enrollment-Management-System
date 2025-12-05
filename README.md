@@ -91,7 +91,7 @@ Finally, we are grateful to our families for their unwavering support, understan
 
 **Sharmine M. Malabanan**
 
-## Bachelor of Science in Information Technology - 2103 | College of Informatics and Computing Sciences | Batangas State University - The National Engineering University
+*** Bachelor of Science in Information Technology - 2103 | College of Informatics and Computing Sciences | Batangas State University - The National Engineering University ***
 
 
 
